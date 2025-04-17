@@ -11,14 +11,16 @@ echo [2] Turn on Notifications
 CHOICE /C 12 /M "Please make a choice:"
 
 IF %ERRORLEVEL%==1 (
-    reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\PushNotifications" /v ToastEnabled /t REG_DWORD /d 0 /f
+    reg add "HKLM\Software\Policies\Microsoft\Windows\Explorer" /v DisableNotificationCenter /t REG_DWORD /d 1 /f
+    gpupdate /force
     taskkill /f /im explorer.exe
     start explorer.exe
     echo Notifications are turned off.
 ) 
 
 IF %ERRORLEVEL%==2 (
-    reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\PushNotifications" /v ToastEnabled /t REG_DWORD /d 1 /f
+    reg add "HKLM\Software\Policies\Microsoft\Windows\Explorer" /v DisableNotificationCenter /t REG_DWORD /d 0 /f
+    gpupdate /force
     taskkill /f /im explorer.exe
     start explorer.exe
     echo Notifications are turned on.
