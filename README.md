@@ -1,6 +1,6 @@
 # 🚀 Do Not Disturb Mode – Full Windows Notification Blocker (Manager)
 
-This batch script **allows users to enable or disable Windows notifications** instantly via registry modifications and system refresh operations. It ensures that Windows notification settings are correctly applied without requiring manual interaction.<br>
+This batch script **allows users to enable or disable Windows notifications** instantly via registry modifications and system refresh operations. It ensures that Windows notification settings are correctly applied without requiring semimanual interaction.<br>
 
 _(You can use this script to ensure that no notifications appear when you entrust your device to someone. 😉)_
 ![merhaba-lan-gofik](https://github.com/user-attachments/assets/cbb96e06-3e3e-48fe-abf8-2045a3f2030b)<br>
