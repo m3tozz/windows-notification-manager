@@ -6,11 +6,11 @@ _(You can use this script to ensure that no notifications appear when you entrus
 ![merhaba-lan-gofik](https://github.com/user-attachments/assets/cbb96e06-3e3e-48fe-abf8-2045a3f2030b)<br>
 
 ## 🔥 Features
-✅ **Instant Notification Control** – Toggle notifications with a simple key press.  
-🔒 **Admin Privilege Enforcement** – Ensures execution without permission issues.  
-🛠️ **System-Wide Registry Tweaks** – Modifies core settings for maximum effect.  
-🔄 **Explorer Restart for Immediate Application** – No need for a full system reboot!  
-🎯 **Perfect for Privacy & Focused Work** – No distractions, no interruptions.  
+- **Instant Notification Control** – Toggle notifications with a simple key press.  
+- **Admin Privilege Enforcement** – Ensures execution without permission issues.  
+- **System-Wide Registry Tweaks** – Modifies core settings for maximum effect.  
+- **Explorer Restart for Immediate Application** – No need for a full system reboot!  
+   **Perfect for Privacy & Focused Work** – No distractions, no interruptions.  
 
 
 ## 📜 Usage
